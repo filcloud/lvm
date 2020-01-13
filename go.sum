@@ -1,0 +1,8 @@
+github.com/gofrs/flock v0.7.1 h1:DP+LD/t0njgoPBvT5MJLeliUIVQR03hiKR6vezdwHlc=
+github.com/gofrs/flock v0.7.1/go.mod h1:F1TvTiK9OcQqauNUHlbJvyl9Qa1QvF/gOUDKA14jxHU=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/sys v0.0.0-20200107162124-548cf772de50 h1:YvQ10rzcqWXLlJZ3XCUoO25savxmscf4+SC+ZqiCHhA=
+golang.org/x/sys v0.0.0-20200107162124-548cf772de50/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+gopkg.in/freddierice/go-losetup.v1 v1.0.0-20170407175016-fc9adea44124 h1:aPcd9iBdqpFyYkoGRQbQd+asp162GIRDvAVB0FhLxhc=
+gopkg.in/freddierice/go-losetup.v1 v1.0.0-20170407175016-fc9adea44124/go.mod h1:6LXpUYtVsrx91XiupFRJ8jVKOqLZf5PrbEVSGHta/84=
